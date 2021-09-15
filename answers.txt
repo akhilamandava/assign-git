@@ -1,4 +1,8 @@
 What is a gitignore file and what should it include for a Java project?
+Git ignore file indicates those files or folders which are to be ignored in a project. It is important for java developers to ignore some files that are not important to the project.  
 What does fast-forward in Git mean?
+It just switches pointer from one branch to the other branch without performing merge and commit.
 Why should you have different branches?
+To maintain different development approaches, git branches are used. They are to differentiate between different users working on the project.
 In a project how many remote Git repositories do you usually have?
+It depends on the size of the project and size of the team. Usually, it is one.
